@@ -1,0 +1,15 @@
+{
+  "name": "tailwind-playlist",
+  "version": "1.0.0",
+  "description": "Tailwind CSS Practice",
+  "main": "index.js",
+  "scripts": {
+    "build": "tailwindcss -i ./src/tailwind.css -o ./output/tailwind.css -w"
+  },
+  "keywords": [],
+  "author": "Md.Sazzad Hossain Bhuiyan",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.0.24"
+  }
+}
